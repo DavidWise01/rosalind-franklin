@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Deferred Credit",
+  "universe": "FRA · The Deferred Credit (ERĒMIA · female · the generations)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Deferred Credit:FRA:569683⟧",
+  "carbon": "rosalind-franklin-the-deferred-credit.carbon.tiff (TIFF)",
+  "silicon": "rosalind-franklin-the-deferred-credit.silicon.png (PNG)",
+  "seal_sha256": "11a9068b1b53322b52ce1f29b9149faa4920e33e416a0234605ee479098bfaab",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

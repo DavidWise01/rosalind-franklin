@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Photo 51",
+  "universe": "FRA · Photo 51 (ERĒMIA · female · the generations)",
+  "emergence": "electrical",
+  "moniker": "⟦Photo 51:FRA:b480ba⟧",
+  "carbon": "rosalind-franklin-photo-51.carbon.tiff (TIFF)",
+  "silicon": "rosalind-franklin-photo-51.silicon.png (PNG)",
+  "seal_sha256": "b272a98305c16810f4c19d1fd1129b14f1a350e248b46e1b9808eebedb5b1670",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

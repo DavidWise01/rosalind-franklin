@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Rosalind Franklin",
+  "universe": "FRA · Rosalind Franklin (ERĒMIA · female · the generations)",
+  "emergence": "",
+  "moniker": "⟦Rosalind Franklin:FRA:6c7509⟧",
+  "carbon": "rosalind-franklin.carbon.tiff (TIFF)",
+  "silicon": "rosalind-franklin.silicon.png (PNG)",
+  "seal_sha256": "2b86a941969a13101c060a581a2cb203792afbfe06e48eaadcb3a4c58f9b3b8e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

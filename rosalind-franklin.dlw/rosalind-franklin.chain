@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 746
+slug  : rosalind-franklin
+seal  : 2b86a941969a13101c060a581a2cb203792afbfe06e48eaadcb3a4c58f9b3b8e
+prev  : 7602595047a6fb4428f3c89d27ac21145c1e7b71c9309a371cb6baf27d8f920e
+link  : c15ce66e67d346a6043d3accfca1870598da2ea80ddb51945fd5cc64e2d6e5f1
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
